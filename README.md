@@ -8,11 +8,9 @@ El movimiento del gripper está controlado mediante tracción de cables, que son
 
 1. **botones.ino**: 
    - Esta versión usa tres botones para controlar la apertura del gripper en ambos lados de manera simultánea. Los botones permiten la acción de abrir o cerrar el gripper en ambas partes con un solo comando.
-   - **Historial**: Esta interfaz registra y muestra el último movimiento realizado, facilitando la referencia del estado actual del gripper.
 
 2. **deslizadores.ino**: 
    - En esta versión, se utilizan dos deslizadores que van de 0 a 100. Cada deslizador controla la apertura correspondiente de cada lado del gripper, donde 0 es el punto de partida (sin apertura) y 100 es una vuelta completa (apertura máxima).
-   - **Historial**: Al igual que la versión de botones, esta interfaz también guarda el último movimiento realizado y lo muestra al usuario para seguimiento.
 
 ## Requisitos
 
