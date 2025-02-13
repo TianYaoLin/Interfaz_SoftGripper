@@ -1,4 +1,4 @@
-# Soft Gripper Interface
+# Interfaces al usuario para el control de un Soft Gripper
 
 Este repositorio contiene dos interfaces diseñadas para controlar un soft gripper, cada una con un enfoque distinto pero con el mismo objetivo: permitir el control de la apertura del gripper. Ambos archivos son funcionales, por lo que basta con utilizar uno de los dos según el tipo de control que se prefiera.
 
