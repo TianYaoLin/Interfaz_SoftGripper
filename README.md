@@ -2,7 +2,7 @@
 
 Este repositorio contiene dos interfaces diseñadas para controlar un soft gripper, cada una con un enfoque distinto pero con el mismo objetivo: permitir el control de la apertura del gripper. Ambos archivos son funcionales, por lo que basta con utilizar uno de los dos según el tipo de control que se prefiera. Ambas versiones cuentan con un historial que permite al usuario ver el último movimiento generado.
 
-El movimiento del gripper está controlado mediante tracción de cables, que son movidos por dos motores paso a paso **NEMA 17**. Este código se encarga de controlar los motores para generar el movimiento de apertura y cierre del gripper.
+El movimiento del gripper está controlado mediante tracción de cables, que son movidos por dos motores paso a paso NEMA 17. Este código se encarga de controlar los motores para generar el movimiento de apertura y cierre del gripper.
 
 ## Archivos
 
