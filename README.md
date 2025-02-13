@@ -10,7 +10,7 @@ El movimiento del gripper está controlado mediante tracción de cables, que son
    - Esta versión usa tres botones para controlar la apertura del gripper en ambos lados de manera simultánea. Los botones permiten la acción de abrir o cerrar el gripper en ambas partes con un solo comando.
 
 2. **deslizadores.ino**: 
-   - En esta versión, se utilizan dos deslizadores que van de 0 a 100. Cada deslizador controla la apertura correspondiente de cada lado del gripper, donde 0 es el punto de partida (sin apertura) y 100 es una vuelta completa (apertura máxima).
+   - En esta versión, se utilizan dos deslizadores que van de 0 a 100. Cada deslizador controla la apertura correspondiente de cada lado del gripper, donde 0 es el punto de partida (apertura) y 100 es una vuelta completa del motor (cierre máxima).
 
 ## Requisitos
 
